@@ -1,0 +1,7 @@
+﻿"file","reason"
+"download_parse_mcod_2018_2024.py","Excluded: legacy partial-window parser retained only for historical checks; final analysis uses 1999-2024."
+"summarize_p1_mcod_trends.py","Excluded: legacy 2018-2024 trend summary superseded by 1999-2024 trend scripts."
+"make_p1_figures.py","Excluded: early draft figure generation superseded by publication-result figure scripts."
+"polish_p1_submission_figures_tables.py","Excluded: submission asset polishing/copying, not core data generation or analysis."
+"build_p1_innovation_reframing_assets.py","Excluded: manuscript/title/reframing and submission-asset report generation, not core analysis."
+"try_p1_wonder_auto_export.py","Excluded: optional CDC WONDER web-automation helper; final reproducibility uses documented query/export processing scripts."
