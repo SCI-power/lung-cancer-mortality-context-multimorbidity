@@ -10,9 +10,6 @@ This repository contains the final code needed to generate analysis-ready data a
 - `documentation/RUN_ORDER.md`: recommended logical run order.
 - `documentation/requirements_python.txt` and `documentation/requirements_R.txt`: package dependencies inferred from the original analysis package.
 
-## What is not included
-
-Raw NCHS MCOD files, CDC WONDER exports, NHIS/MEPS/NHANES public-use files, generated outputs, manuscript drafts, DOCX files, journal submission packaging, and manual figure montage/editing scripts are not included.
 
 ## Directory expectations
 
