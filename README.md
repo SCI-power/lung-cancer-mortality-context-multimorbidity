@@ -11,14 +11,10 @@ This repository contains the final code needed to generate analysis-ready data a
 - `documentation/requirements_python.txt` and `documentation/requirements_R.txt`: package dependencies inferred from the original analysis package.
 
 
-## Directory expectations
-
-Run scripts from the repository root. Most Python scripts resolve the project root as the parent of `scripts/` and write outputs under `outputs/`. External public-use data scripts expect inputs under `external_public_data/raw/` and write processed files under `external_public_data/processed/`.
-
 ## Quick start
 
 1. Install dependencies listed in `documentation/requirements_python.txt` and `documentation/requirements_R.txt`.
 2. Place required public-use raw files in the expected `raw/` and `external_public_data/raw/` locations.
 3. Follow `documentation/RUN_ORDER.md`.
 
-This package is code-only by design for GitHub upload.
+
